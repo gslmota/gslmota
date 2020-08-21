@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **gslmota/gslmota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,8 +21,8 @@ Here are some ideas to get you started:
   <em>
     My name is Gabriel Sávio, and I'm 19 years old. I am passionate about programming and music.<br>
     I am in the 3th period of graduation in information systems at <a href="https://www.ufv.br/"> <b>UFV-Federal University of Viçosa</b></a>. <br>
-    A budding <b>Web Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"><br>
-    who wants to improve each day more!
+    A budding <b>Web Developer</b> and <b>Data Scientist</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"><br>
+    Who wants to improve each day more!
   </em>  
 </p>
 
