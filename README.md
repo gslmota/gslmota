@@ -25,11 +25,9 @@ Here are some ideas to get you started:
     Who wants to improve each day more! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
   </em>  
 </p>
-
 <br>
 
 ![Gabriel github stats](https://github-readme-stats.vercel.app/api?username=gslmota&show_icons=true&hide_border=true)
-
 
 ## Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
