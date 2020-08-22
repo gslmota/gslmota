@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <br>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=gslmota&show_icons=true&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gslmota&layout=compact&hide_border=true&rise=10px)
+![github stats](https://github-readme-stats.vercel.app/api?username=gslmota&show_icons=true&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gslmota&layout=compact&hide_border=true&rise=100px)
 
 ## Connect with me<img src="https://github.com/gslmota/gslmota/blob/master/img/Handshake.gif" height="32px">
 
