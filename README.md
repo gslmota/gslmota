@@ -13,16 +13,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Gabriel Sávio&nbsp;<img src="https://github.com/gslmota/gslmota/tree/master/img/Mario_Hello_Big.gif" width="30px">
+# Gabriel Sávio&nbsp;<img src="https://github.com/gslmota/gslmota/blob/master/img/Mario_Hello_Big.gif" width="30px">
 
-## <img src="/img/Hi.gif" width="29px">Hello world!&nbsp;<img src="https://github.com/gslmota/gslmota/tree/master/img/Earth.gif" width="24px">
+## <img src="/img/Hi.gif" width="29px">Hello world!&nbsp;<img src="https://github.com/gslmota/gslmota/blob/master/img/Earth.gif" width="24px">
 
 <p>
   <em>
     My name is Gabriel Sávio, I'm 19 years old. I'm passionate about programming and music.<br>
     I am in the 3th period of graduation in information systems at <a href="https://www.ufv.br/"> <b>UFV-Federal University of Viçosa</b></a>. <br>
-    A budding <b>Web Developer</b> and <b>Data Scientist</b> <img src="https://github.com/gslmota/gslmota/tree/master/img/Developer.gif" width="30px"><br>
-    Who wants to improve each day more! <img src="https://github.com/gslmota/gslmota/tree/master/img/Rocket.gif" width="18px">
+    A budding <b>Web Developer</b> and <b>Data Scientist</b> <img src="https://github.com/gslmota/gslmota/blob/master/img/Developer.gif" width="30px"><br>
+    Who wants to improve each day more! <img src="https://github.com/gslmota/gslmota/blob/master/img/Rocket.gif" width="18px">
   </em>  
 </p>
 
@@ -30,18 +30,18 @@ Here are some ideas to get you started:
 
 ![Gabriel github stats](https://github-readme-stats.vercel.app/api?username=gslmota&show_icons=true&hide_border=true)
 
-## Connect with me<img src="https://github.com/gslmota/gslmota/tree/master/img/Handshake.gif" height="32px">
+## Connect with me<img src="https://github.com/gslmota/gslmota/blob/master/img/Handshake.gif" height="32px">
 
   <a href="https://www.linkedin.com/in/gabriel-mota-a58899185?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnoppDs1uTxqPWv66JKuSFA%3D%3D">
-    <img align="left" alt="Gabriel Sávio | Linkedin" width="24px" src="https://github.com/gslmota/gslmota/tree/master/img/Linkedin.svg" />
+    <img align="left" alt="Gabriel Sávio | Linkedin" width="24px" src="https://github.com/gslmota/gslmota/blob/master/img/Linkedin.svg" />
   </a>
   <a href="https://twitter.com/SavioSavi0">
-    <img align="left" alt="Gabriel Sávio | Twitter" width="26px" src="https://github.com/gslmota/gslmota/tree/master/img/Twitter.svg" />
+    <img align="left" alt="Gabriel Sávio | Twitter" width="26px" src="https://github.com/gslmota/gslmota/blob/master/img/Twitter.svg" />
   </a>
   <a href="https://www.instagram.com/gabrielsl_mota">
-    <img align="left" alt="Gabriel Sávio | Instagram" width="24px" src="https://github.com/gslmota/gslmota/tree/master/img/Instagram.svg" />
+    <img align="left" alt="Gabriel Sávio | Instagram" width="24px" src="https://github.com/gslmota/gslmota/blob/master/img/Instagram.svg" />
   </a>
   <a href="gabrielsavio81@gmail.com">
-    <img align="left" alt="Gabriel Sávio| Gmail" width="26px" src="https://github.com/gslmota/gslmota/tree/master/img/Gmail.svg" />
+    <img align="left" alt="Gabriel Sávio| Gmail" width="26px" src="https://github.com/gslmota/gslmota/blob/master/img/Gmail.svg" />
   </a>
 
