@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/gabrielsl_mota">
     <img align="left" alt="Gabriel Sávio | Instagram" width="24px" src="https://github.com/gslmota/gslmota/blob/master/img/Instagram.svg" />
   </a>
-  <a href="https://mailto.com/gabrielsavio81@gmail.com">
+  <a href="https://gmail.com/gabrielsavio81@gmail.com">
     <img align="left" alt="Gabriel Sávio| Gmail" width="26px" src="https://github.com/gslmota/gslmota/blob/master/img/Gmail.svg" />
   </a>
 
