@@ -32,12 +32,14 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gslmota&layout=compact&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="">
-  <img align="left" src= [![Github stats](https://github-readme-stats.vercel.app/api?username=gslmota&count_private=true&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src= "https://github-readme-stats.vercel.app/api?username=gslmota&count_private=true&show_icons=true&theme=radical&hide_border=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gslmota&layout=compact&hide_border=true&theme=radical" />
 </a>
+
+
 
 ## Connect with me<img src="https://github.com/gslmota/gslmota/blob/master/img/Handshake.gif" height="32px">
 
