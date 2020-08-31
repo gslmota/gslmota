@@ -32,15 +32,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gslmota&layout=compact&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<c href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src= "https://github-readme-stats.vercel.app/api?username=gslmota&count_private=true&show_icons=true&theme=radical&hide_border=true" />
-</c>
-<c href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gslmota&layout=compact&hide_border=true&theme=radical" />
-</c>
-
-<br>
-
 ## Connect with me<img src="https://github.com/gslmota/gslmota/blob/master/img/Handshake.gif" height="32px">
 
   <a href="https://www.linkedin.com/in/gabriel-mota-a58899185?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnoppDs1uTxqPWv66JKuSFA%3D%3D">
