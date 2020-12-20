@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=gslmota&count_private=true&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gslmota&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gslmota&layout=compact&hide_border=false&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with me<img src="https://github.com/gslmota/gslmota/blob/master/img/Handshake.gif" height="32px">
 
