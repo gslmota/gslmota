@@ -26,11 +26,6 @@ Here are some ideas to get you started:
   </em>  
 </p>
 
-<br>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=gslmota&count_private=true&show_icons=true&hide_border=false&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gslmota&layout=compact&hide_border=false&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Connect with me<img src="https://github.com/gslmota/gslmota/blob/master/img/Handshake.gif" height="32px">
 
   <a href="https://www.linkedin.com/in/gabriel-mota-a58899185?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnoppDs1uTxqPWv66JKuSFA%3D%3D">
@@ -42,4 +37,9 @@ Here are some ideas to get you started:
   <a href="mailto:gabrielsavio81@gmail.com">
     <img align="left" alt="Gabriel Sávio| Gmail" width="26px" src="https://github.com/gslmota/gslmota/blob/master/img/Gmail.svg" />
   </a>
+  
+  <br>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=gslmota&count_private=true&show_icons=true&hide_border=false&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gslmota&layout=compact&hide_border=false&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
