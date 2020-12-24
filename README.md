@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   </a>
   <a href="mailto:gabrielsavio81@gmail.com">
     <img align="left" alt="Gabriel Sávio| Gmail" width="26px" src="https://github.com/gslmota/gslmota/blob/master/img/Gmail.svg" />
-  </a>
+  </a><br>
   
   
   
