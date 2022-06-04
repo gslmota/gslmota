@@ -1,6 +1,6 @@
 # Gabriel Sávio&nbsp;<img src="https://github.com/gslmota/gslmota/blob/master/img/Mario_Hello_Big.gif" width="30px" height="30px">
 
-## <img src="https://github.com/gslmota/gslmota/blob/master/img/Hi.gif" width="29px"height="29px">Hello world!&nbsp;<img src="https://github.com/gslmota/gslmota/blob/master/img/Earth.gif" width="24px">
+## <img src="https://github.com/gslmota/gslmota/blob/master/img/Hi.gif" width="29px">Hello world!&nbsp;<img src="https://github.com/gslmota/gslmota/blob/master/img/Earth.gif" width="24px">
 
 <p>
   <em>
