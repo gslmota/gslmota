@@ -13,16 +13,16 @@ Here are some ideas to get you started:
 - 😄 ...
 - ⚡ 
 -->
-# Gabriel Sávio&nbsp;<img src="https://github.com/gslmota/gslmota/blob/master/img/Mario_Hello_Big.gif" width="30px">
+# Gabriel Sávio&nbsp;<img src="https://github.com/gslmota/gslmota/blob/master/img/Mario_Hello_Big.gif" width="30px" height="30px">
 
-## <img src="https://github.com/gslmota/gslmota/blob/master/img/Hi.gif" width="29px">Hello world!&nbsp;<img src="https://github.com/gslmota/gslmota/blob/master/img/Earth.gif" width="24px">
+## <img src="https://github.com/gslmota/gslmota/blob/master/img/Hi.gif" width="29px"height="29px">Hello world!&nbsp;<img src="https://github.com/gslmota/gslmota/blob/master/img/Earth.gif" width="24px"height="24px">
 
 <p>
   <em>
     My name is Gabriel Sávio, I'm 19 years old. I'm passionate about programming and music.<br>
     I am in the 3th period of graduation in information systems at <a href="https://www.ufv.br/"> <b>UFV-Federal University of Viçosa</b></a>. <br>
-    A budding <b>Web Developer</b> and <b>Data Scientist</b> <img src="https://github.com/gslmota/gslmota/blob/master/img/Developer.gif" width="30px"><br>
-    Who wants to improve each day more! <img src="https://github.com/gslmota/gslmota/blob/master/img/Rocket.gif" width="18px">
+    A budding <b>Web Developer</b> and <b>Data Scientist</b> <img src="https://github.com/gslmota/gslmota/blob/master/img/Developer.gif" width="30px"height="30px"><br>
+    Who wants to improve each day more! <img src="https://github.com/gslmota/gslmota/blob/master/img/Rocket.gif" width="18px"height="18px">
   </em>  
 </p>
 
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
     <img align="left" alt="Gabriel Sávio| Gmail" width="26px" src="https://github.com/gslmota/gslmota/blob/master/img/Gmail.svg" />
   </a><br><br>
 
-## My Stats <img src = "https://github.com/gslmota/gslmota/blob/master/img/images1.png" height = "30px">
+## My Stats <img src = "https://github.com/gslmota/gslmota/blob/master/img/images1.png" height = "30px"height="30px">
 
 <br>[![Github stats](https://github-readme-stats.vercel.app/api?username=gslmota&count_private=true&show_icons=true&hide_border=false&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gslmota&layout=compact&hide_border=false&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
