@@ -4,8 +4,8 @@
 
 <p>
   <em>
-    My name is Gabriel Sávio, I'm 19 years old. I'm passionate about programming and music.<br>
-    I am in the 5th period of graduation in information systems at <a href="https://www.ufv.br/"> <b>UFV-Federal University of Viçosa</b></a>. <br>
+    My name is Gabriel Sávio, I'm 21 years old. I'm passionate about programming and music.<br>
+    I am in the 6th period of graduation in information systems at <a href="https://www.ufv.br/"> <b>UFV-Federal University of Viçosa</b></a>. <br>
     A budding <b>Web Developer</b> and <b>Data Scientist</b> <img src="https://github.com/gslmota/gslmota/blob/master/img/Developer.gif" width="30px"height="30px"><br>
     Who wants to improve each day more! <img src="https://github.com/gslmota/gslmota/blob/master/img/Rocket.gif" width="18px"height="18px">
   </em>  
