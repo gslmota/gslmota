@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/gabriel-mota-a58899185?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnoppDs1uTxqPWv66JKuSFA%3D%3D">
     <img align="left" alt="Gabriel Sávio | Linkedin" width="24px" src="https://github.com/gslmota/gslmota/blob/master/img/Linkedin.svg" />
   </a>
-
+<br>
 ## My Stats <img src = "https://github.com/gslmota/gslmota/blob/master/img/images1.png" height = "30px">
 
 <br>[![Github stats](https://github-readme-stats.vercel.app/api?username=gslmota&count_private=true&show_icons=true&hide_border=false&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
