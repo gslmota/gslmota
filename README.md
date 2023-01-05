@@ -16,12 +16,6 @@
   <a href="https://www.linkedin.com/in/gabriel-mota-a58899185?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnoppDs1uTxqPWv66JKuSFA%3D%3D">
     <img align="left" alt="Gabriel Sávio | Linkedin" width="24px" src="https://github.com/gslmota/gslmota/blob/master/img/Linkedin.svg" />
   </a>
-  <a href="https://www.instagram.com/gabrielsl_mota">
-    <img align="left" alt="Gabriel Sávio | Instagram" width="24px" src="https://github.com/gslmota/gslmota/blob/master/img/Instagram.svg" />
-  </a>
-  <a href="mailto:gabrielsavio81@gmail.com">
-    <img align="left" alt="Gabriel Sávio| Gmail" width="26px" src="https://github.com/gslmota/gslmota/blob/master/img/Gmail.svg" />
-  </a><br><br>
 
 ## My Stats <img src = "https://github.com/gslmota/gslmota/blob/master/img/images1.png" height = "30px">
 
