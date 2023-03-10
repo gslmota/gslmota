@@ -1,6 +1,6 @@
 # Gabriel Mota   <img src="https://github.com/gslmota/gslmota/blob/master/img/Mario_Hello_Big.gif" width="30px" height="30px">
 
-## <img src="https://github.com/gslmota/gslmota/blob/master/img/Hi.gif" width="29px" height="30px">Hello world!&nbsp;<img src="https://github.com/gslmota/gslmota/blob/master/img/Earth.gif" width="24px" height="30px">
+## <img src="https://github.com/gslmota/gslmota/blob/master/img/Hi.gif" width="29px" height="30px">  Hello world! &nbsp;<img src="https://github.com/gslmota/gslmota/blob/master/img/Earth.gif" width="24px" height="30px">
 
 <p>
   <em>
@@ -18,7 +18,7 @@
   </a>
 <br>
 
-## My Stats <img src = "https://github.com/gslmota/gslmota/blob/master/img/images1.png" height = "30px">
+## My Stats   <img src = "https://github.com/gslmota/gslmota/blob/master/img/images1.png" height = "30px">
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=gslmota&count_private=true&show_icons=true&hide_border=false&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gslmota&layout=compact&hide_border=false&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
