@@ -21,5 +21,10 @@
 ## My Stats   <img src = "https://github.com/gslmota/gslmota/blob/master/img/images1.png" height = "30px">
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=gslmota&count_private=true&show_icons=true&hide_border=false&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gslmota&layout=compact&hide_border=false&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gslmota&layout=compact&hide_border=false&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
+
+
+<a href="https://www.github.com/gslmota" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/gslmota?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 
